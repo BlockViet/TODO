@@ -7,6 +7,6 @@ Tổng hợp những nội dung dự định làm về BlockViet
  - [ ] Trước tiên tập trung vào một số nền tảng Blockchain sau: Ethereum, Hyperledger Fabric, EOSIO.
 - [x] Tìm kiếm những người có cùng sở thích học hỏi và chia sẽ về công nghệ Blockchain giành cho thương mại.
  - [ ] Email contact: blockvietlab@gmail.com
-- [x]Quy định:
+- [x] Quy định:
  - [ ] Với các bài viết mới thì hướng đến việc tôn trọng người đọc, không dùng các từ ngữ không đúng chuẩn mực.
  - [ ] Với mục đích phi lợi nhuận nên không nhận hoặc sẽ loại bỏ các hình thức quảng bá hình ảnh cho các tổ chức làm về Blockchain.
